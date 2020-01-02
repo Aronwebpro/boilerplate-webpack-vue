@@ -1,0 +1,9 @@
+## Node Modules
+node_modules/**/*
+
+## Editor
+.idea/
+.idea/**/*
+
+## File system
+.DS_Store
