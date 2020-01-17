@@ -1,0 +1,2 @@
+registry=https://artifactory.dc.teliacompany.net/api/npm/npm-modules-cache-virtual
+@telia:registry=https://artifactory.dc.teliacompany.net/api/npm/telia-npm-modules-local
